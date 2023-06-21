@@ -678,3 +678,26 @@ java.io.FileNotFoundException: 89 (The system cannot find the file specified)
 2023.06.21 17:52:25.425 INFO  View.Log4J - Maze generating server connected via port 5400.
 2023.06.21 17:52:25.428 INFO  View.Log4J - Maze solving server connected via port 5401.
 2023.06.21 17:52:27.220 INFO  View.Log4J - Program terminated by user
+2023.06.21 18:04:48.568 INFO  View.Log4J - Maze generating server connected via port 5400.
+2023.06.21 18:04:48.571 INFO  View.Log4J - Maze solving server connected via port 5401.
+2023.06.21 18:04:56.934 INFO  View.Log4J - Program terminated by user
+2023.06.21 18:05:01.582 INFO  View.Log4J - Maze generating server connected via port 5400.
+2023.06.21 18:05:01.585 INFO  View.Log4J - Maze solving server connected via port 5401.
+2023.06.21 18:05:06.653 INFO  View.Log4J - Created a new 5x5 maze.
+2023.06.21 18:05:38.115 INFO  View.Log4J - User solved maze. High score: 10.
+2023.06.21 18:06:04.667 INFO  View.Log4J - Created a new 20x20 maze.
+2023.06.21 18:06:17.623 INFO  View.Log4J - User requested solution.
+2023.06.21 18:06:23.661 INFO  View.Log4J - User solved maze. High score: 27.
+2023.06.21 18:06:28.044 INFO  View.Log4J - Created a new 20x20 maze.
+2023.06.21 18:07:12.125 INFO  View.Log4J - User solved maze. High score: 142.
+2023.06.21 18:07:18.130 INFO  View.Log4J - DepthFirstSearch selected.
+2023.06.21 18:07:20.393 INFO  View.Log4J - BestFirstSearch selected.
+2023.06.21 18:07:23.034 INFO  View.Log4J - Threadpool size changed.
+2023.06.21 18:07:27.291 INFO  View.Log4J - Threadpool size changed.
+2023.06.21 18:07:28.547 INFO  View.Log4J - SimpleMazeGenerator selected.
+2023.06.21 18:07:29.707 INFO  View.Log4J - Threadpool size changed.
+2023.06.21 18:07:35.441 INFO  View.Log4J - Created a new 10x10 maze.
+2023.06.21 18:08:06.104 INFO  View.Log4J - Program terminated by user
+2023.06.21 18:14:05.498 INFO  View.Log4J - Maze generating server connected via port 5400.
+2023.06.21 18:14:05.502 INFO  View.Log4J - Maze solving server connected via port 5401.
+2023.06.21 18:14:57.970 INFO  View.Log4J - Program terminated by user

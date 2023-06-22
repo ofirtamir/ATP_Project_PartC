@@ -701,3 +701,6 @@ java.io.FileNotFoundException: 89 (The system cannot find the file specified)
 2023.06.21 18:14:05.498 INFO  View.Log4J - Maze generating server connected via port 5400.
 2023.06.21 18:14:05.502 INFO  View.Log4J - Maze solving server connected via port 5401.
 2023.06.21 18:14:57.970 INFO  View.Log4J - Program terminated by user
+2023.06.22 15:06:11.383 INFO  View.Log4J - Maze generating server connected via port 5400.
+2023.06.22 15:06:11.389 INFO  View.Log4J - Maze solving server connected via port 5401.
+2023.06.22 15:06:12.615 INFO  View.Log4J - Program terminated by user
